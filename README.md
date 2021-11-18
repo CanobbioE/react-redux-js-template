@@ -1,6 +1,3 @@
-# Welcome site
-This is the welcome site for the project. The page people gets to when looking us up.
-
 ## Installation
 
 Clone the repository with
