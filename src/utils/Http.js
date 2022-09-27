@@ -8,6 +8,7 @@ const RequestMethod = {
     POST: 'post',
     PATCH: 'patch',
     PUT: 'put',
+    DELETE: 'delete,
 };
 
 const RequestHeaders = {
